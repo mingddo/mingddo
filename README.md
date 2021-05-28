@@ -3,6 +3,9 @@
 <a  href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphoenix9373%2FTIL&count_bg=%23FFA800&title_bg=%237C7C7C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-4.1.0-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+
 
 ### :blush: Welcome to my github.
 
