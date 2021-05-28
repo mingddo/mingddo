@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 | Used Programming Languages                                   | Programming Languages                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingddo)](https://github.com/anuraghazra/github-readme-stats) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingddo&langs_count=8&layout=compact&hide=python,java,html,jupyter%20notebook&theme=dracula) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingddo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingddo&langs_count=8&layout=compact&hide=python,java,html,jupyter%20notebook&theme=dracula) |
 
 
 
